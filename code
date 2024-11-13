@@ -18,3 +18,5 @@ elif player=='scissor' and computer=='paper':
     print("You win")
 else:
     print("You lose")
+
+
